@@ -1,0 +1,11 @@
+2019-11-22 19:59:58.4781 INFO Here is info message from the controller.
+2019-11-22 19:59:58.5163 DEBUG Here is debug message from the controller.
+2019-11-22 19:59:58.5182 WARN Here is warn message from the controller.
+2019-11-22 19:59:58.5182 ERROR Here is error message from the controller.
+2019-11-22 22:29:27.4555 INFO Returned all owners from database.
+2019-11-22 22:42:40.5068 INFO Returned all owners from database.
+2019-11-22 22:42:40.6074 ERROR Something went wrong inside GetAllOwners action: Object reference not set to an instance of an object.
+2019-11-22 22:42:57.5032 INFO Returned all owners from database.
+2019-11-22 22:42:57.5487 ERROR Something went wrong inside GetAllOwners action: Object reference not set to an instance of an object.
+2019-11-22 22:43:00.3719 INFO Returned all owners from database.
+2019-11-22 22:43:00.4093 ERROR Something went wrong inside GetAllOwners action: Object reference not set to an instance of an object.

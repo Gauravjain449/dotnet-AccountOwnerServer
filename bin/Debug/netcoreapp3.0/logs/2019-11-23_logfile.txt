@@ -1,0 +1,52 @@
+2019-11-23 13:20:27.8350 INFO Returned all owners from database.
+2019-11-23 13:20:37.2684 INFO Returned all owners from database.
+2019-11-23 13:22:32.5786 INFO Returned all owners from database.
+2019-11-23 13:22:48.8145 INFO Returned all owners from database.
+2019-11-23 13:32:27.0886 INFO Returned all owners from database.
+2019-11-23 13:32:27.1163 ERROR Something went wrong inside GetAllOwners action: Object reference not set to an instance of an object.
+2019-11-23 13:32:28.0597 INFO Returned all owners from database.
+2019-11-23 13:32:28.0601 ERROR Something went wrong inside GetAllOwners action: Object reference not set to an instance of an object.
+2019-11-23 13:52:19.0030 ERROR Something went wrong inside GetAllOwners action: Table 'AccountOwner.owner' doesn't exist
+2019-11-23 13:52:19.5570 ERROR Something went wrong inside GetAllOwners action: Table 'AccountOwner.owner' doesn't exist
+2019-11-23 13:52:55.5754 ERROR Something went wrong inside GetAllOwners action: Table 'AccountOwner.owner' doesn't exist
+2019-11-23 13:54:19.8657 ERROR Something went wrong inside GetAllOwners action: Table 'AccountOwner.owner' doesn't exist
+2019-11-23 13:55:52.8741 ERROR Something went wrong inside GetAllOwners action: Table 'AccountOwner.owner' doesn't exist
+2019-11-23 13:56:24.5613 ERROR Something went wrong inside GetAllOwners action: Table 'AccountOwner.owner' doesn't exist
+2019-11-23 13:56:56.7603 ERROR Something went wrong inside GetAllOwners action: Table 'AccountOwner.owner' doesn't exist
+2019-11-23 13:57:48.4829 ERROR Something went wrong inside GetAllOwners action: Table 'AccountOwner.owner' doesn't exist
+2019-11-23 13:57:48.7576 ERROR Something went wrong inside GetAllOwners action: Table 'AccountOwner.owner' doesn't exist
+2019-11-23 13:59:13.1561 INFO Returned all owners from database.
+2019-11-23 13:59:51.9859 INFO Returned all owners from database.
+2019-11-23 14:00:28.1591 INFO Returned all owners from database.
+2019-11-23 14:35:33.0063 INFO Returned all owners from database.
+2019-11-23 14:35:33.8920 INFO Returned all owners from database.
+2019-11-23 14:41:23.7155 INFO Returned all owners from database.
+2019-11-23 14:41:28.4182 INFO Returned owner with id: 08d76ff4-9a8c-4945-afe3-11b75a9f1289
+2019-11-23 14:41:37.8672 INFO Returned owner with id: 08d76ff4-9a8c-4945-afe3-11b75a9f1289
+2019-11-23 14:46:34.1684 INFO Returned all owners from database.
+2019-11-23 14:46:35.4160 INFO Returned all owners from database.
+2019-11-23 14:47:49.4718 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-11-23 14:48:25.6581 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-11-23 14:48:39.9749 INFO Returned all owners from database.
+2019-11-23 15:12:10.8434 ERROR Something went wrong inside GetAllOwners action: Table 'AccountOwner.owner' doesn't exist
+2019-11-23 15:12:11.0784 ERROR Something went wrong inside GetAllOwners action: Table 'AccountOwner.owner' doesn't exist
+2019-11-23 15:13:06.6126 INFO Returned all owners from database.
+2019-11-23 15:13:48.1923 INFO Returned all owners from database.
+2019-11-23 15:14:16.4872 ERROR Cannot delete owner with id: a3c1880c-674c-4d18-8f91-5d3608a2c937. It has related accounts. Delete those accounts first
+2019-11-23 15:14:30.5826 INFO Returned owner with id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2019-11-23 15:14:37.1112 INFO Returned all owners from database.
+2019-11-23 15:14:57.0207 ERROR Owner with id: 08d76ff4-9a8c-4945-afe3-11b75a9f1289, hasn't been found in db.
+2019-11-23 15:15:03.4674 INFO Returned all owners from database.
+2019-11-23 15:15:14.3829 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-11-23 15:15:18.6775 ERROR Cannot delete owner with id: 261e1685-cf26-494c-b17c-3546e65f5620. It has related accounts. Delete those accounts first
+2019-11-23 23:39:11.0930 INFO Returned all owners from database.
+2019-11-23 23:39:12.5755 INFO Returned all owners from database.
+2019-11-23 23:39:52.2900 INFO Returned all owners from database.
+2019-11-23 23:40:37.8748 INFO Returned all owners from database.
+2019-11-23 23:40:47.0829 INFO Returned all owners from database.
+2019-11-23 23:45:29.9949 INFO Returned all owners from database.
+2019-11-23 23:47:40.4626 INFO Returned all owners from database.
+2019-11-23 23:47:41.9075 INFO Returned all owners from database.
+2019-11-23 23:50:34.7992 INFO Returned all owners from database.
+2019-11-23 23:53:44.5821 INFO Returned all owners from database.
+2019-11-23 23:54:25.1701 INFO Returned all owners from database.

@@ -1,0 +1,11 @@
+2019-11-22 22:44:53.9555 INFO Returned all owners from database.
+2019-11-22 22:44:54.0800 ERROR Something went wrong inside GetAllOwners action: Object reference not set to an instance of an object.
+2019-11-22 22:48:30.0073 INFO Returned all owners from database.
+2019-11-22 22:49:15.7842 ERROR Something went wrong inside GetAllOwners action: Object reference not set to an instance of an object.
+2019-11-22 22:49:24.0417 INFO Returned all owners from database.
+2019-11-22 22:49:24.0417 INFO Returned all owners from database.
+2019-11-22 22:50:38.1467 ERROR Something went wrong inside GetAllOwners action: Object reference not set to an instance of an object.
+2019-11-22 22:51:52.8736 ERROR Something went wrong inside GetAllOwners action: Object reference not set to an instance of an object.
+2019-11-22 22:53:08.1093 INFO Returned all owners from database.
+2019-11-22 22:53:08.2109 ERROR Something went wrong inside GetAllOwners action: Object reference not set to an instance of an object.
+2019-11-22 22:57:45.6154 INFO Returned all owners from database.
